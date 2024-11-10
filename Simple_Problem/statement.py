@@ -43,3 +43,4 @@ plt.xlabel('Age')
 plt.ylabel('Income')
 plt.title('Customer Purchases (0: Not Purchased, 1: Purchased)')
 plt.show()
+ 
